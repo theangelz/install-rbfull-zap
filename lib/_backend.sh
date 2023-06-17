@@ -35,7 +35,7 @@ PORT=${backend_port}
 DB_HOST=localhost
 DB_DIALECT=mysql
 DB_USER=root
-DB_PASS=
+DB_PASS=vertrigo
 DB_NAME=${instancia_add}
 
 JWT_SECRET=${jwt_secret}
