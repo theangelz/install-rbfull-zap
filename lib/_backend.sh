@@ -72,6 +72,9 @@ backend_node_dependencies() {
   npm install
   npm install --save mysql
   npm install --save axios
+  npm install --save http
+  npm install --save bluebird
+  npm install --save sequelize
 EOF
 
   sleep 2
